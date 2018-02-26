@@ -1,3 +1,3 @@
 # CIS454project2
 
-#Hello， friends
+Hello， friends
