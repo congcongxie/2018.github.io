@@ -1,5 +1,7 @@
 Welcome to Congcong Xie's Github Page
 
+I'm currently a member of Professor Yuzhe Tang's security and blockchain lab.
+
 cxie101@syr.edu
 
     EDUCATION
