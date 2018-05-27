@@ -11,7 +11,7 @@ Syracuse University, College of Engineering and Computer Science Bachelor of Sci
 Major: Computer Science and Applied Mathematics 
 
 
-GPA 3.82/4.0|CS major GPA: 3.71/4.0|AM major GPA: 3.86/4.0 
+GPA 3.83/4.0|CS major GPA: 3.75/4.0|AM major GPA: 3.9/4.0 
 
     JOB EXPERIENCE
     
