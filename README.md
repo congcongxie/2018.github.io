@@ -30,10 +30,10 @@ Student Advising System
 •	Used MangoDB for Database management
 •	Used GitHub for code sharing within the group
 
-ACTIVITY
+    ACTIVITY
 Ambassadors:  Converse with middle school students and teach them to think in Engineering way.
 
-AWARDS
+    AWARDS
 SPARK:  2017
 First place reward in SPARK competition 
 DCAP:  2017
