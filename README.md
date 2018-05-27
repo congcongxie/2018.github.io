@@ -55,10 +55,10 @@ Student Advising System
 Ambassadors:  Converse with middle school students and teach them to think in Engineering way.
 
     AWARDS
-SPARK:  2017
-First place reward in SPARK competition 
+1.  SPARK:  2017
+    First place reward in SPARK competition 
 
-DCAP:  2017
-Second place reward in Deloitte Consulting Apprenticeship Program 
+2.  DCAP:  2017
+    Second place reward in Deloitte Consulting Apprenticeship Program 
 
-Deans List:  2016 to 2018
+3.  Deans List:  2016 to 2018
