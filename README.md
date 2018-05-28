@@ -1,6 +1,6 @@
 Welcome to Congcong Xie's Github Page
 
-I'm currently a member of Professor Yuzhe Tang's security and blockchain lab.
+I'm currently a member of Professor Yuzhe Tang's security and blockchain lab.I was 
 
 cxie101@syr.edu
 
@@ -55,6 +55,7 @@ Student Advising System
 Ambassadors:  Converse with middle school students and teach them to think in Engineering way.
 
     AWARDS
+    
 1.  SPARK:  2017
     First place reward in SPARK competition 
 
