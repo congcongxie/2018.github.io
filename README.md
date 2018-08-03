@@ -1,6 +1,6 @@
 Welcome to Congcong Xie's Github Page
 
-I'm currently a member of Professor Yuzhe Tang's security and blockchain lab.I was 
+I'm currently a member of Professor Yuzhe Tang's security and blockchain lab.
 
 cxie101@syr.edu
 
@@ -16,8 +16,10 @@ GPA 3.83/4.0|CS major GPA: 3.75/4.0|AM major GPA: 3.9/4.0
     JOB EXPERIENCE
     
 Oracle (China) Software Systems Co., Ltd.
+
 Project Assistant：June in 2018- July in 2018
-Main responsibility: Assist TA in recitation of PHY 211
+
+Main responsibility: 
 •	Act as a cost manager to deal with project cost control business process such as Budget Approvals, Contracts and Purchase Orders, Change Orders, Payment Applications and Claims in Primavera Unifier on a purpose-designed Office Building Addition (OFFC) construction project.
 •	Collaborate with project manager to map out schematic schedule of a 1,000 KTA ethylene plant in Primavera P6 which covers the whole lifecycle phases from pre-project, engineering, procurement, construction, commissioning and handover.
 
