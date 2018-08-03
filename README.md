@@ -59,9 +59,13 @@ Student Advising System
 	
     SKILL
     
-    Database Technology: Oracle Database 12c (Data Definition & Manipulation Language, SQL Query, Oracle PL/SQL Programming)
-	Programming Languages: Advanced C/C++ Programming Skills, advanced JAVA Programming Skills, Advanced Haskell Programming Skill, Advanced Python 3 Programming Skill (CGI Programming, Database Access, Network Programming, Multithreaded Programming and XML Processing)
-	Oracle Data Visualization Desktop (Build visualization canvas to explore and analyze the business data along with geographic information)
+Database Technology: Oracle Database 12c (Data Definition & Manipulation Language, SQL Query, Oracle PL/SQL Programming)
+
+
+Programming Languages: Advanced C/C++ Programming Skills, advanced JAVA Programming Skills, Advanced Haskell Programming Skill, Advanced Python 3 Programming Skill (CGI Programming, Database Access, Network Programming, Multithreaded Programming and XML Processing)
+
+
+Oracle Data Visualization Desktop (Build visualization canvas to explore and analyze the business data along with geographic information)
 
 
     ACTIVITY
